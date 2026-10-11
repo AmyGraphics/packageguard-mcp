@@ -11,7 +11,8 @@ ChatGPT can explain security concepts. PackageGuard queries the live package reg
 - `vulnerabilities.scan_live` — live OSV advisories and CVEs
 - `dependencies.audit_live` — known vulnerability exposure
 - `license.review` — commercial license review checklist
-- `package.score_live` — transparent package risk score
+- `package.score_live`
+- `package.upgrade_recommendation` — transparent package risk score
 
 ## Quick start
 
