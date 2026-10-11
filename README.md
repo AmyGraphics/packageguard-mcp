@@ -37,3 +37,10 @@ Solana USDC:
 ```text
 8sDLX3okSV974wdjdeKhN9uWLZDr45DeGCJ28zgTLEdJ
 ```
+
+
+## Why this MCP is worth using
+
+Package/version → advisory severity, affected ranges, verified OSV fixed-version evidence and upgrade next step.
+
+This outcome is the product value; the tool count is only an implementation detail.
